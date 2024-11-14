@@ -7,7 +7,7 @@ edition = "2021"
 target-dir = "Target"
 
 [dependencies]
-hyperfine = "1.18.0"
+hyperfine = "1.19.0"
 
 [[bin]]
 name = "Build"
