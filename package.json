@@ -25,7 +25,7 @@
 		"piscina": "4.7.0"
 	},
 	"devDependencies": {
-		"@playform/build": "0.1.8",
+		"@playform/build": "0.1.9",
 		"ts-node": "10.9.2"
 	},
 	"publishConfig": {
