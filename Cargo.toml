@@ -8,7 +8,12 @@ target-dir = "Target"
 
 [dependencies]
 hyperfine = "1.19.0"
+unbug = { version = "0.2.0", features = ["enable"] }
 
 [[bin]]
 name = "Build"
 path = "build.rs"
+
+[features]
+default = []
+Debug = ["unbug/enable"]
