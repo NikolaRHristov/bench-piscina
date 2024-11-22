@@ -1,5 +1,6 @@
 export default async () => {
 	const Count = 1000000000;
+
 	let Index = 0;
 
 	while (Index < Count) {
