@@ -22,10 +22,10 @@
 		"serial-no-await": "ts-node Source/lib/serial-no-await.ts"
 	},
 	"dependencies": {
-		"piscina": "4.7.0"
+		"piscina": "4.8.0"
 	},
 	"devDependencies": {
-		"@playform/build": "0.1.9",
+		"@playform/build": "0.2.0",
 		"ts-node": "10.9.2"
 	},
 	"publishConfig": {
