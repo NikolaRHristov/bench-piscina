@@ -7,7 +7,7 @@ edition = "2021"
 target-dir = "Target"
 
 [dependencies]
-hyperfine = "1.19.0"
+hyperfine = { version = "1.19.0" }
 unbug = { version = "0.3.0", features = ["enable"] }
 
 [[bin]]
